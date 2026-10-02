@@ -1,0 +1,27 @@
+{
+  "name": "smart-agriculture-monitoring-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Smart Agriculture Monitoring IoT Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "iot",
+    "smart-agriculture",
+    "esp32",
+    "mongodb",
+    "nodejs",
+    "express",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  }
+}
